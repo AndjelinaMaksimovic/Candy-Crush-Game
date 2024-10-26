@@ -1,0 +1,7 @@
+# IDE-specific settings
+.idea/
+.metadata/
+.settings/
+.classpath
+.project
+*.iml

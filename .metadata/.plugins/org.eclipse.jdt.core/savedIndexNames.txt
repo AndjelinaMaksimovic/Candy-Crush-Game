@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+/home/andjelina/Desktop/CandyCrush FInal Version/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-501696165.index
-2542117235.index
-1175494123.index
-3630129602.index
