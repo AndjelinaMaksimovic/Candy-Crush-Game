@@ -28,3 +28,6 @@ Java IDE (e.g., IntelliJ IDEA, Eclipse) or command-line setup to run Java progra
 1. Clone the repository: `git clone https://github.com/AndjelinaMaksimovic/Candy-Crush-Game.git` <br>
 2. Open the project in your preferred Java IDE or compile and run the code using the command line. <br>
 3. Enjoy the game! <br>
+
+
+![Screenshot of a game](gameImage.JPG)
